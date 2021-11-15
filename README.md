@@ -1,3 +1,3 @@
-# Flash-Chat
+# Self-Chat
 
 
