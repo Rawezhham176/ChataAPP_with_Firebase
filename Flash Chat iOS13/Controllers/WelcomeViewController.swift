@@ -19,6 +19,7 @@ class WelcomeViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
         titleLabel.text = ""
         let titleText = "SELF"
         var characterIndex = 0.0
